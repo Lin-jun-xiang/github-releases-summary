@@ -26,3 +26,5 @@ A professional tool designed to summarize recent changes in GitHub repositories 
 6. **Generate Summaries**  
    - Start summarizing with a single click.  
    - The tool fetches release data, analyzes key changes, and outputs concise summaries using the selected LLM.
+
+<img src="./data/example.png" width="60%" />
