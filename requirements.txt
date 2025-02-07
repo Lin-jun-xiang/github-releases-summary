@@ -1,0 +1,11 @@
+# Streamlit for the web interface
+streamlit>=1.25.0
+
+# Async HTTP requests for fetching GitHub releases
+aiohttp>=3.8.4
+
+# OpenAI SDK for LLM integration
+openai>=1.3.5
+
+# ZhipuAI SDK for alternative LLM support
+zhipuai>=2.0.4

@@ -1,0 +1,12 @@
+{
+  "6958efaf-7ddf-40aa-b287-a38722c140fd": [
+    "deepseek-ai/DeepSeek-R1"
+  ],
+  "fda5ea6e-4e39-4062-a38a-395dd01a6f80": [
+    "deepseek-ai/DeepSeek-R1",
+    "langchain-ai/langchain"
+  ],
+  "8fd9689a-a32b-49c1-9653-27967db16abf": [
+    "langchain-ai/langchain"
+  ]
+}
