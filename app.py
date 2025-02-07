@@ -128,7 +128,6 @@ async def main() -> None:
             success, message = remove_repo(session_id, repo_to_remove)
             if success:
                 st.sidebar.success(message)
-                st.experimental_rerun()
             else:
                 st.sidebar.error(message)
     else:
